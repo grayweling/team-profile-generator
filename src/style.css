@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.jumbotron {
+    background-color: #f4511e;
+    color: #fff;
+    padding: 100px 25px;
+}
+
+.card {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.card-title {
+    color: #f4511e;
+    padding: 0.5rem 1.5rem;
+    font-size: 1.5rem;
+    line-height: 1.7;
+    text-align: center;
+}
+
+.card-body {
+    padding: 1.5rem 1.5rem;
+    text-align: center;
+}
